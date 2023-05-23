@@ -1,2 +1,17 @@
 # SIG-Database-Marker
-Tugas 3 Modul 2 Sistem Informasi Geografis membuat Marker dengan database yang telah disediakan
+
+Cobalah kode yang disertakan pada folder tutorial ini: “modul02-leaflet”. Kode tersebut 
+dapat digunakan untuk menambahkan dan menampilkan data marker yang tersimpan 
+pada database. Perhatikan alur kode tersebut dan selanjutnya kembangkan kode 
+sederhana tersebut sebagai berikut.
+ Tambahkan draggable markers untuk mempermudah input data lokasi saat 
+penambahan data
+ Tambahkan fungsi tampil seluruh data, fungsi ubah dan hapus data untuk data 
+lokasi yang sudah ditambahkan
+Ketentuan:
+ Menggunakan format dokumen HTML 5
+ Desain dan tampilan dapat dirubah
+ Upload tugas anda pada web hosting pribadi dengan nama folder: “modul02” paling 
+lambat sehari sebelum kuliah minggu depan.
+ Buatlah laporan pembahasan mengenai kode yang telah dibuat dan kemudian 
+upload laporan pembahasan tersebut pada folder: “modul02”, format file dalam pdf
